@@ -56,7 +56,7 @@ def process_address(api_key, address):
 
 
 # 替换为您的API密钥
-api_key = 'a60ba654-6d8d-4886-8f9d-4b437a42bf36'
+api_key = ''
 
 # 读取包含批量地址的表格，假设为Excel文件
 df = pd.read_excel('/Users/apple/Desktop/test.xlsx')
